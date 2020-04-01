@@ -1,0 +1,37 @@
+<!DOCTYPE HTML> 
+<HTML> 
+  <head> 
+    <title>Latihan Markup</title> 
+	
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head> 
+  <body> 
+    <div id="wrapper"> 
+      <header> 
+        <img src="" alt="." /> 
+        <ul id="menu-utama"> 
+           <li><a href="index.html">Home</a></li> 
+          <li><a href="AboutUs.html">About Us</a></li>
+		  <li><a href="contactUs.html">Contact Us</a></li>
+        </ul> 
+        <form> 
+          <input type="text" name="search" /> 
+        </form> 
+      </header><!-- Penutup div "header" --> 
+
+ <table border=0 width=100% height=30%>
+    <tr><td align="center"><font face="Arial Black" color=#000000 size=7></font><br>
+    </tr></td>
+
+    </table>
+    <table border=1 width=100% height=100% align="center">
+    <tr><td bgcolor="white"><br><h3 align="Center"><font size="4" color="#660033">Kontak Kami</font></h3>
+<p align="center"><font face="Times New Roman" color=#660033>Kami melayani jam : 9.00 - 18.00 WIB</font></p><p align="center"><font face="Times New Roman" color=#660033>Alamat Lengkap :jln bantul Km 7,5 Pendowoharjo, Sewon, Bantul Yogyakarta 55766</font></p><p align="center"><font face="Times New Roman" color=#660033>No.Telepon: 085877206586
+</font></p>
+    </td></body></tr></td></table>
+        
+
+
+       
+  </body> 
+</HTML> 

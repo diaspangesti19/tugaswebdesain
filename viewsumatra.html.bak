@@ -1,0 +1,31 @@
+<!DOCTYPE HTML> 
+<HTML> 
+  <head> 
+    <title>Latihan Markup</title> 
+	
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head> 
+  <body> 
+    <div id="wrapper"> 
+      <header> 
+        <img src="" alt="." /> 
+        <ul id="menu-utama"> 
+          <li><a href="index.html">Home</a></li> 
+          <li><a href="AboutUs.html">About Us</a></li>
+		  <li><a href="contactUs.html">Contact Us</a></li>
+        </ul> 
+        <form> 
+          <input type="text" name="search" /> 
+        </form> 
+      </header><!-- Penutup div "header" --> 
+ 
+         <p align="center"><img src="airterjun2.jpg" alt="" width="50%" height="50%">
+          <br><br><p align="left">Sebuah tempat wisata di Sumatera Utara yang dinamakan Air Terjun Sipiso – Piso ini terletak di Kecamatan Merek, Kabupaten Karo dan bisa ditempuh selama 2 jam dari Kebanjahe yang merupakan ibu kota Karo. Untuk mencapai dan menikmati keindahan air terjun tersebut, Kamu perlu menuruni anak tangga yang jumlahnya kurang lebih 100 buah. Meskipun jauh, lelahmu akan terbayarkan dengan keindahan alam yang luar biasa menariknya.</br></p>
+        
+<footer> 
+        <p>Desain Web copyright 2020 by Dias Pangesti</p> 
+      </footer> <!-- Penutup div "Footer" --> 
+
+    </div><!-- Penutup div "wrapper" --> 
+  </body> 
+</HTML> 

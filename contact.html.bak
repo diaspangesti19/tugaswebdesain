@@ -1,0 +1,82 @@
+<html>
+  <head> 
+    <title>Latihan Dias</title> 
+	
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head> 
+  <body> 
+    <div id="wrapper"> 
+      <header> 
+        <img src=".png" alt="logo" /> 
+        <ul id="menu-utama"> 
+          <li><a href="index.html">Home</a></li> 
+          <li><a href="AboutUs.html">About Us</a></li>
+		  <li><a href="contactUs.html">Contact Us</a></li>
+        </ul> 
+        <form> 
+          <input type="text" name="search" /> 
+        </form> 
+      </header><!-- Penutup div "header" --> 
+
+      <div id="sidebar"> 
+        <h2>Who we are?</h2> 
+        <p>Ariona.net  adlah  tempat  anda  berbagi  pengetahuan  seputar 
+        webdesign dan web development serta segala informasi yang  
+        berhubungandengan internet</p> 
+        <h2>Artikel berdasarkan kategori</h2> 
+        <ul> 
+          <li><a href="">HTML dan CSS</a></li> 
+          <li><a href="">Javascript</a></li> 
+          <li><a href="">Photoshop</a></li> 
+          <li><a href="">Inspirasi</a></li> 
+          <li><a href="">Berita</a></li> 
+          <li><a href="">Off Topic</a></li> 
+        </ul> 
+      </div><!-- Penutup div "sidebar" --> 
+      <div id="daftar-article">
+	<table border="0" cellpadding="1" cellspacing="5" width="50%" align="left">
+	<tr bgcolor="white">
+		<div class="article">
+			<legend>
+			Send Us a Message:
+			</legend>
+		</div>
+		<label>
+			Your Name	:
+			<input type="text" name="name" size="30" maxlength="100" required="required">
+		</label>
+		<br>
+		
+		<label>
+			Email Adress	:
+			<input type="email" name="email" size="30" maxlength="100">
+		</label>
+		</br>
+		
+		
+		<label>
+			Facebook	:
+			<input type="email" name="email" size="30" maxlength="100">
+		</label>
+		</br>
+	<div id="article">
+	<label>
+	Write your Message :
+	</label>
+<br />
+	<textarea rows="4" cols="40" id="comments">
+</textarea>
+</p>
+	<input type="submit" value="Send" />
+	<label for="comments">
+	</div>
+</div>
+      <footer> 
+        <p>Desain Web copyright 2018 by Wahyu W</p> 
+      </footer> <!-- Penutup div "Footer" --> 
+
+    </div><!-- Penutup div "wrapper" --> 
+  </body> 
+</HTML> 
+
+
